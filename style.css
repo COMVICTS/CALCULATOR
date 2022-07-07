@@ -56,6 +56,10 @@ body{
     height: 20%;
     border-radius: 15px;
     background-color: rgba(255, 229, 229, 0.815);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    
     
 }
 
@@ -123,3 +127,11 @@ body{
     box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #07b307 0 -3px 0 inset;
     transform: translateY(-2px);
   }
+
+.displayText{
+  margin-right: 5%;
+  font-size: 60px;
+}
+
+
+ 
